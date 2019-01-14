@@ -1,0 +1,2 @@
+# Redirect default Netlify subdomain to primary domain
+http://tender-allen-b8762e.netlify.com/* http://www.dpalupi.com/:splat 301!
