@@ -1,3 +1,3 @@
-baseurl = "/"
-languageCode = "en-us"
-title = "Homepage"
+baseURL = "https://www.dpalupi.com/"
+canonifyURLs = true
+uglyurls = true
