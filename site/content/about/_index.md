@@ -1,7 +1,7 @@
 ---
 title: "About"
-logo: "/img/logo.png"
 ---
+<h1>About</h1>
 
 We’d love to get in touch with you and hear your ideas and
 questions. We strive to grow and improve constantly and your feedback
