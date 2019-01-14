@@ -1,0 +1,6 @@
+# Redirect http to https for your custom domain.
+http://dpalupi.com/* https://dpalupi.com/:splat 301!
+http://www.dpalupi.com/* https://www.dpalupi.com/:splat 301!
+
+# Redirect default Netlify subdomain to primary domain
+https://tender-allen-b8762e.netlify.com/* https://www.dpalupi.com:splat 301!
